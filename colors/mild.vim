@@ -12,7 +12,7 @@ if exists("syntax_on")
 endif
 
 highlight Comment guifg=#209040
-highlight Constant guifg=#E83080
+highlight Constant guifg=#E03080
 highlight CursorLineNr guifg=#3070B0
 highlight LineNr guifg=#3070B0
 highlight Pmenu guibg=#E8E8E8
@@ -21,6 +21,7 @@ highlight SpecialKey guifg=#B0B0FF
 highlight Statement guifg=#503090
 highlight StatusLine guifg=#000810
 highlight StatusLineNC guifg=#000810
+highlight Title guifg=#E030B0
 highlight VertSplit guifg=#000810
 
 highlight helpCommand guifg=#2020A0
