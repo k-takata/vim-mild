@@ -22,6 +22,7 @@ highlight Statement guifg=#503090
 highlight StatusLine guifg=#000810
 highlight StatusLineNC guifg=#000810
 highlight Title guifg=#E030B0
+highlight Type guifg=#308080
 highlight VertSplit guifg=#000810
 
 highlight helpCommand guifg=#2020A0
